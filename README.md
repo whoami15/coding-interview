@@ -2,7 +2,7 @@
 
 ### Description
 
-You are tasked with implementing a checkout system for an online store. The store sells two products: Apples and Oatmeal. The pricing rules for these products are as follows:
+You are tasked with implementing a checkout system for an online store. The store sells two products: Coffee Frappuccino and Ham & Cheese Toastie. The pricing rules for these products are as follows:
 
 We have two products:
 
@@ -13,8 +13,8 @@ We have two products:
 
 ### Requirements
 
-- If a customer buys 3 or more Coffee Frappuccino, the price of each Coffee Frappuccino drops to 170.
-- If a customer buys 2 or more bags of Ham & Cheese Toastie, the price of each Ham & Cheese Toastie drops to 195.
+- If a customer buys 3 or more cups of Coffee Frappuccino, the price of each Coffee Frappuccino drops to 170.
+- If a customer buys 2 or more of Ham & Cheese Toasties, the price of each Ham & Cheese Toastie drops to 195.
 
 ### Test Case
 

@@ -16,7 +16,7 @@ Use the following scoring system to calculate the GitHub score of a user:
 
 ### Requirements
 
-- Implement a PHP function named `calculate` that takes the path to a JSON file as input.
+- Implement a PHP function named `calculate`.
 - Calculate the GitHub score for the user based on the events in the JSON file.
 - Parse the JSON file contents and iterate over the events to calculate the GitHub score.
 - Return the `total` GitHub score as the output of the function.
